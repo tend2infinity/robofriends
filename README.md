@@ -1,11 +1,12 @@
 This project is made with the help of "CREATE REACT APP".
 ## INTRODUCTION
 Having too many friends and is becoming difficult to manage ? well , we have got your back ! <br />
-This Robofreinds App not only maintains a database of your "robot friends" but also helps you to search any particular robot friend . <br />(this database is also rendered online from an anonymous company's database which can be changed offcourse according to your needs) <br />
+This Robofreinds App not only maintains a database of your "robot friends" but also helps you to search any particular robot friend . (This database is also rendered online from an anonymous company's database which can be changed offcourse according to your needs) <br />
 It basically filters out search results for you and makes it very easy to manage a large amount of friends and their details .<br />
 
 ## Robo friends Database
-The data for of differet friends (their names , contact and email details are taken from [users](https://jsonplaceholder.typicode.com/users) URL .
+The data for of differet friends (their names , contact and email details are taken from [users](https://jsonplaceholder.typicode.com/users) URL . <br />
+The visuals are taken from the website [Robohash](https://robohash.org/)
 
 ## How to run this
 
