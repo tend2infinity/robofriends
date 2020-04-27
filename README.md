@@ -13,7 +13,7 @@ The visuals are taken from the website [Robohash](https://robohash.org/)
 
 ### `1. clone this repo`
 
-Then cd into project directory .
+Open the terminal at your preferred location and type git clone https://github.com/tend2infinity/robofriends.git and this will make a copy of this repo on your computer . Now cd into your project's folder .
 
 ### `2. npm install`
 
