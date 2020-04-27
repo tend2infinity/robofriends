@@ -5,7 +5,7 @@ This Robofreinds App not only maintains a database of your "robot friends" but a
 It basically filters out search results for you and makes it very easy to manage a large amount of friends and their details .<br />
 
 ## Robo friends Database
-The data for of differet friends (their names , contact and email details are taken from [users](https://jsonplaceholder.typicode.com/users) URL . <br />
+The data for of different friends (their names , contact and email details are taken from [Users](https://jsonplaceholder.typicode.com/users) URL . <br />
 The visuals are taken from the website [Robohash](https://robohash.org/)
 
 ## How to run this
