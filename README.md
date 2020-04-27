@@ -6,8 +6,8 @@ It basically filters out search results for you and makes it very easy to manage
 This project can also be extended for big software firms where handling data for large amount of employees is a fairly tough nut to crack !!
 
 ## Robo friends Database
-The data for of different friends (their names , contact and email details are taken from [Users](https://jsonplaceholder.typicode.com/users) URL . <br />
-The visuals are taken from the website [Robohash](https://robohash.org/)
+The data for of different friends (their names , contact and email details) are taken from [Users](https://jsonplaceholder.typicode.com/users) URL . <br />
+The visuals for robots are taken from the website [Robohash](https://robohash.org/)
 
 ## How to run this
 
